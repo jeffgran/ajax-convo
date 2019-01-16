@@ -1,0 +1,5 @@
+1251257204206	I just deleted some things and added a new one.
+1251268914316	now I can add, remove, and edit the msgs. see? this part was the edit.<br /><br />even with multiple lines. :)
+1252024629332	There. Now I'm back to where I was.  It is all working.
+125210757455	now it works nicely in IE 7 and 8
+125210792345	Editing now with $.ajax
